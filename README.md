@@ -1,15 +1,15 @@
 <h1 align="center"> rlBessa </h1>
 
 
-I am a computer science student looking for opportunities and collaboration in projects related to front-end and mobile dev.
-- 🌱 I’m currently learning Dart, Flutter and Python.
-- 🤝 I’m looking to collaborate on mobile projects.
+I'm a computer science student interested in web and mobile development. Currently looking for challenges to prove my skills.
+- 📚 I’m currently learning Dart, Flutter and Python.
+- ✍️ I’m looking to collaborate on mobile projects.
 
-##📊
 
  <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlbessa&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbessa&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlbessa&show_icons=true&theme=tokyonight)     
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbessa&theme=tokyonight&layout=compact)](https://github.com/rlbessa/github-readme-stats)
 
  </div>
   
