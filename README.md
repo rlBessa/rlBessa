@@ -15,7 +15,7 @@ I am a computer science student looking for opportunities and collaboration in p
   
  <div align="center">
   
-[<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rlbessa/) 
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rlbessa/) 
 
 </div>
 
