@@ -20,3 +20,10 @@ I'm a computer science student interested in web and mobile development. Current
 </div>
 
 
+
+ <div align="center">
+  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
+
+
+</div>
