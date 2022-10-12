@@ -10,7 +10,16 @@ Durante esta jornada na faculdade tive muito contato com diversas áreas da prog
 - Inteligência artificial (redes evolucionárias)
 - Processamento digital de imagens
 
-Abaixo estão algumas da ferramentas que mais utilizo ultimamente:
+
+
+ <div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlbessa&show_icons=true&theme=tokyonight)     
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbessa&theme=tokyonight&layout=compact)](https://github.com/rlbessa/github-readme-stats)
+
+ </div>
+  
+  
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" /> 
@@ -27,16 +36,8 @@ Abaixo estão algumas da ferramentas que mais utilizo ultimamente:
   <img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black" />
 
 </div>
-
- <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlbessa&show_icons=true&theme=tokyonight)     
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbessa&theme=tokyonight&layout=compact)](https://github.com/rlbessa/github-readme-stats)
-
- </div>
   
   
-  Este é o meu perfil no Linkedin:
   
  <div align="center">
   
