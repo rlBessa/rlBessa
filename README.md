@@ -10,9 +10,11 @@ Durante esta jornada na faculdade tive muito contato com diversas áreas da prog
 - Inteligência artificial (redes evolucionárias)
 - Processamento digital de imagens
 
-Abaixo estão algumas da linguagens que tenho algum conhecimento sobre:
+Abaixo estão algumas da ferramentas que mais utilizo ultimamente:
 
 <div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-02569B?logo=flutter&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-0175C2?logo=dart&logoColor=white" />
