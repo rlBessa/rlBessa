@@ -26,7 +26,6 @@ I'm a computer science student interested in web and mobile development. Current
   <img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ED8B00?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-47A141?logo=LaTeX&logoColor=white" />
   <img src="https://img.shields.io/badge/-FFD43B?logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/-007ACC?logo=typescript&logoColor=white" />
