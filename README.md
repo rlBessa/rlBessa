@@ -1,14 +1,5 @@
 <h1 align="center"> rlBessa </h1>
 
-Olá! 
-Sou estudante de ciências da computação na Universidade Federal de Goiás e estou iniciando minha carreira como mobile dev.
-Durante esta jornada na faculdade tive muito contato com diversas áreas da programação e descobri que tenho afinidade por:
-
-- IoT (internet das coisas)
-- Mobile (flutter)
-- Design (canva, figma)
-- Inteligência artificial (redes evolucionárias)
-- Processamento digital de imagens
 
 
 
